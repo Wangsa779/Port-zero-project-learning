@@ -8,6 +8,9 @@ simple port scanning tools inspired by nmap scanning tools, it supported by thre
 -after that set how many threading speed from scale 1-100 (example = 20)
 -after filling all the data the scanner will analyse the open port inside the ip adress you want to target
 
-
+```installation
+git clone https://github.com/Wangsa779/portzero.git
+cd portzero
+pip install -e .
 
 
